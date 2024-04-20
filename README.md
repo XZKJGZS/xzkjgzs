@@ -5,6 +5,7 @@
 <div align="center">
     <img src="https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402250201783.png" alt="NEW-LOGO" style="width: 40%;"/>
 </div>
+
 The logo of OrionAI, with its pure lines and connection points, forms a pattern inspired by the **Orion constellation**, reflecting our passion for **deep learning and exploration of the stars and seas**. Each node in the design not only represents the convergence of data and the aggregation of knowledge but also embodies the spark of thought and the blueprint for innovation. The interlocking lines at the center, like the complex architecture of a neural network, showcase our profound expertise in the field of artificial intelligence technology.
 
 Through such a minimalist logo design, we aim to visually demonstrate the values represented by our company as a technology-driven entity. We are committed to integrating artificial intelligence technology into everyday life, **bringing convenience and an intelligent experience to users**. At the same time, we will continue to innovate and progress, contributing to the future development of technology.
