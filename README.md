@@ -15,3 +15,6 @@ Through such a minimalist logo design, we aim to visually demonstrate the values
 **OrionAI DeepThinking Lab** is a leading artificial intelligence research and development team, established in March 2021, focused on researching, developing, and applying innovative artificial intelligence technologies. Our team consists of a group of passionate and knowledgeable engineers and designers, dedicated to integrating artificial intelligence technology into practical applications across various industries.
 
 **By continuously exploring and innovating, we provide high-quality artificial intelligence solutions that help businesses and organizations acquire advanced intelligent tools and services. Our technology spans multiple areas including machine learning, computer vision, AI painting, and large language models.**
+
+## Chinese
+[中文页面](https://github.com/XZKJGZS/xzkjgzs/blob/master/Readme-zh.md)
